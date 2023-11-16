@@ -1,0 +1,13 @@
+README.md
+setup.py
+CurveSimilarity/__init__.py
+CurveSimilarity/curve_similarity.py
+CurveSimilarity/curve_similarity_1d.py
+CurveSimilarity/curve_similarity_2d.py
+CurveSimilarity/curve_similarity_3d.py
+CurveSimilarity/curve_types.py
+CurveSimilarity.egg-info/PKG-INFO
+CurveSimilarity.egg-info/SOURCES.txt
+CurveSimilarity.egg-info/dependency_links.txt
+CurveSimilarity.egg-info/requires.txt
+CurveSimilarity.egg-info/top_level.txt
