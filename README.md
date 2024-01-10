@@ -1,4 +1,4 @@
-![image](https://github.com/Cynic2019/CurveSimilarityCalculator/assets/37062530/2278db80-56df-4699-8053-e4303efb7c2b)# Curve Similarity Calculator
+# Curve Similarity Calculator
 A Python library for calculating the similarity of 1D, 2D, and 3D curves.
 
 ## Description
@@ -59,14 +59,13 @@ This is because `typing` is a standard library in Python 3.5 and later.
 1.Original Curve
 ![image](https://github.com/Cynic2019/CurveSimilarityCalculator/assets/37062530/aff7d9cb-8cad-4299-9ea3-bf1a2f1b2f8d)
 2.Resample Curve
-![original_curve_3d](./sample_data/3d/images/2.resampled_curve_3d.svg)
+![image](https://github.com/Cynic2019/CurveSimilarityCalculator/assets/37062530/7fbe3d11-bcbf-481e-a9ba-eca93f5cea52)
 3.Translate Curve
-![original_curve_3d](./sample_data/3d/images/3.translated_curve_3d.svg)
+![image](https://github.com/Cynic2019/CurveSimilarityCalculator/assets/37062530/0c472d01-bd26-4c85-93d6-b412bd420335)
 4.Zoom Curve
-![original_curve_3d](./sample_data/3d/images/4.zoomed_curve_3d.svg)
+![image](https://github.com/Cynic2019/CurveSimilarityCalculator/assets/37062530/f33a01de-1a9f-40a2-8daf-6f17a72c972c)
 5.Matrix-Transform Curve
-![original_curve_3d](./sample_data/3d/images/5.matrix_transformed_curve_3d.svg)
-
+![image](https://github.com/Cynic2019/CurveSimilarityCalculator/assets/37062530/d3acdc72-60f5-4a34-8070-a163ac9d983e)
 The similarity between the two curves was calculated as: 0.9140664484123516
 
 ## Plot Code
