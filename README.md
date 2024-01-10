@@ -1,4 +1,4 @@
-# Curve Similarity Calculator
+![image](https://github.com/Cynic2019/CurveSimilarityCalculator/assets/37062530/2278db80-56df-4699-8053-e4303efb7c2b)# Curve Similarity Calculator
 A Python library for calculating the similarity of 1D, 2D, and 3D curves.
 
 ## Description
@@ -57,7 +57,7 @@ This is because `typing` is a standard library in Python 3.5 and later.
 ***3d***
 
 1.Original Curve
-![original_curve_3d](./sample_data/3d/images/1.original_curve_3d.svg)
+![image](https://github.com/Cynic2019/CurveSimilarityCalculator/assets/37062530/aff7d9cb-8cad-4299-9ea3-bf1a2f1b2f8d)
 2.Resample Curve
 ![original_curve_3d](./sample_data/3d/images/2.resampled_curve_3d.svg)
 3.Translate Curve
